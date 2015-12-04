@@ -1,10 +1,10 @@
-# NHS Code4Health Ehrscape Domain provisioning
+# C4H Lampada: NHS Code4Health Ehrscape Domain provisioning
 
-## NHS Code4Health Ehrscape Domain login details
+## Domain login details
 
-`Username`: handi_c4h  
-`Password`: PAstoMet  
-`Authorization`: Basic aGFuZGlfYzRoOlBBc3RvTWV0  
+`Username`: lampada_c4h  
+`Password`: LnCNEklU  
+`Authorization`: Basic bGFtcGFkYV9jNGg6TG5DTkVrbFU=  
 
 ### Dummy patient
 
@@ -14,17 +14,18 @@
 `subjectID`: 9999999000  
 `subjectNamespace`: uk.nhs.hospital_number  
 
-`ehrId`: 52fa5d6d-c91f-40a8-b6e5-88177024811b  
+`ehrId`: b424b40b-2c6b-4ed5-9210-ccfa56537b73  
 
-`partyId` (Demographic service): 1799  
+`partyId` (Demographic service): 3659  
 
 ### Sample instance data for dummy patient
 
 `templateId`: Vital Signs Encounter (Composition)  
-`compositionId`(uid): 75b4c1c4-9c62-4074-b587-3d3edece1434::handi.c4h.com::1  
+`compositionId`(uid): 52b36319-dc68-4798-b0d2-e98c9ffe0349::lampada.c4h.ehrscape.com::1  
 
 ### Useful links
 
 [NHS Code4Health Ehrscape Explorer](http://ehrscape.code-4-health.org/explorer)  
 [NHS Code4Health Ehrscape API Explorer](http://ehrscape.code-4-health.org/api-explorer)  
-[NHS Code4Health Ehrscape API Reference](https://code-4-health.org/platform/open_interfaces_apis/ehrscape/ehrscape_api_reference)  
+[NHS Code4Health Ehrscape API Reference](https://code-4-health.org/platform/open_interfaces_apis/ehrscape/ehrscape_api_reference)
+ 
